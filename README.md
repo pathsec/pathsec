@@ -1,16 +1,22 @@
-## Hi there 👋
+# pathsec
 
-<!--
-**pathsec/pathsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security tooling.
 
-Here are some ideas to get you started:
+## What I build
+- Cloud inventory + graph visualization (AWS today; expanding patterns across platforms)
+- Container/registry auditing (tags, images, secrets, artifacts)
+- “Operator-grade” ergonomics: clean CLIs, structured outputs, reproducible runs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **Apparition** — browser-in-the-middle platform for controlled, campaign-driven simulations.  
+- **aws-visualizer** — interactive graph visualizer for AWS inventory data.
+- **TagTrawler** — docker image secrets scanner + registry crawler (tags, env vars, file + regex hits).  
+
+## Current focus
+- Identity + session tradecraft
+- All things cloud
+
+## Notes
+All tooling is intended for **authorized environments only**.
+
+**Links:** Blog https://pathsec.fail · Email jt@pathsec.fail
