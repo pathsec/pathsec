@@ -7,9 +7,10 @@ Security tooling.
 - **aws-visualizer** — interactive graph visualizer for AWS inventory data.
 - **TagTrawler** — docker image secrets scanner + registry crawler (tags, env vars, file + regex hits).  
 
-## Current focus
-- Identity + session tradecraft
+## Current focuses
+- Identity tradecraft
 - All things cloud
+- Internal network pentesting
 
 ## Notes
 All tooling is intended for **authorized environments only**.
