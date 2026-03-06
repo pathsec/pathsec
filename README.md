@@ -2,11 +2,6 @@
 
 Security tooling.
 
-## What I build
-- Cloud inventory + graph visualization (AWS today; expanding patterns across platforms)
-- Container/registry auditing (tags, images, secrets, artifacts)
-- “Operator-grade” ergonomics: clean CLIs, structured outputs, reproducible runs
-
 ## Featured projects
 - **Apparition** — browser-in-the-middle platform for controlled, campaign-driven simulations.  
 - **aws-visualizer** — interactive graph visualizer for AWS inventory data.
