@@ -4,7 +4,7 @@ Security tooling.
 
 ## Featured Projects
 
-- [**Apparition**](https://github.com/pathsec/Apparition) — browser-in-the-middle platform for controlled, campaign-driven simulations.
+- [**Apparition**](https://github.com/pathsec/Apparition) — browser-in-the-middle platform for controlled, campaign-driven phishing simulations.
 
   <p align="center">
     <img width="1536" height="352" alt="Apparition Architecture" src="https://github.com/user-attachments/assets/4d8b9cd5-13bf-44ed-8f1f-6418aafa6933" />
