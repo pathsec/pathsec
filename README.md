@@ -24,5 +24,5 @@ Security tooling.
 
 ##
 
-**Blog:** [pathsec.fail](https://pathsec.fail)
-**Email:** jt@pathsec.fail
+- **Blog:** [pathsec.fail](https://pathsec.fail)
+- **Email:** jt@pathsec.fail
